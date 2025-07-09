@@ -1,2 +1,2 @@
 # incredible-dashboard-66456
-React app generated from template: landing-page
+React app generated with custom deployment.
